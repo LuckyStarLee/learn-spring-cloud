@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka/learn-common-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka/learn-eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka/learn-goods-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka/learn-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-eureka/ss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-feign/learn-feign-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-ribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-ribbon/learn-goods-server-mutil" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-ribbon/learn-mutil-goods-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-ribbon/learn-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learn-ribbon/learn-ribbon-order-server" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="learn-order-server" />
+        <module name="learn-goods-server" />
+        <module name="learn-eureka-server" />
+        <module name="learn-common-api" />
+        <module name="learn-ribbon-order-server" />
+        <module name="learn-feign-order-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="learn-goods-server (1)" target="1.8" />
+      <module name="learn-mutil-goods-server" target="1.8" />
+      <module name="learn-order-server (1)" target="1.8" />
+      <module name="ss" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

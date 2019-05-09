@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: GOODS
+server:
+  port: 8081
+
+eureka:
+  instance:
+    instance-id: goods-api-8081
+    prefer-ip-address: true # 访问路径可以显示 IP
+  client:
+    service-url:
+      defaultZone: http://eureka01:9000/eureka/  # 注册中心访问地址

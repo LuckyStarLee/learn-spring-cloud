@@ -1,0 +1,6 @@
+
+ysquid:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(’ÿΘΉϋÿÿÿÿ8ΊΆΫ©-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(εκ‰ 8ΊΆΫ©-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(‹ώ¨µ8ΊΆΫ©-
