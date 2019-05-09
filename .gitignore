@@ -31,6 +31,7 @@ Temporary Items
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # User-specific stuff
+.idea/**
 .idea/vcs.xml
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -99,3 +100,8 @@ buildNumber.properties
 
 .idea/sonarlint/issuestore/4/5/
 .idea/sonarlint/issuestore/a/
+learn-eureka/learn-eureka-server/src/test/
+learn-eureka/learn-goods-server/src/test/
+learn-eureka/learn-order-server/src/test/
+learn-feign/learn-feign-order-server/src/test/
+learn-ribbon/learn-ribbon-order-server/src/test/

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learn-eureka/learn-common-api/learn-common-api.iml" filepath="$PROJECT_DIR$/learn-eureka/learn-common-api/learn-common-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-eureka/learn-eureka.iml" filepath="$PROJECT_DIR$/learn-eureka/learn-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-eureka/learn-eureka-server/learn-eureka-server.iml" filepath="$PROJECT_DIR$/learn-eureka/learn-eureka-server/learn-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-feign/learn-feign.iml" filepath="$PROJECT_DIR$/learn-feign/learn-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-feign/learn-feign-order-server/learn-feign-order-server.iml" filepath="$PROJECT_DIR$/learn-feign/learn-feign-order-server/learn-feign-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-eureka/learn-goods-server/learn-goods-server.iml" filepath="$PROJECT_DIR$/learn-eureka/learn-goods-server/learn-goods-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-eureka/learn-order-server/learn-order-server.iml" filepath="$PROJECT_DIR$/learn-eureka/learn-order-server/learn-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-ribbon/learn-ribbon.iml" filepath="$PROJECT_DIR$/learn-ribbon/learn-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-ribbon/learn-ribbon-order-server/learn-ribbon-order-server.iml" filepath="$PROJECT_DIR$/learn-ribbon/learn-ribbon-order-server/learn-ribbon-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learn-spring-cloud.iml" filepath="$PROJECT_DIR$/.idea/learn-spring-cloud.iml" />
+    </modules>
+  </component>
+</project>
