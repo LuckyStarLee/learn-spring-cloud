@@ -1,0 +1,18 @@
+server:
+  port: 9600
+
+spring:
+  application:
+    name: gateway
+
+eureka:
+  instance:
+    instance-id: gateway-9600
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://eureka01:9000/eureka/  # 注册中心访问地址
+zuul:
+  prefix: /api
+  sensitive-headers: #设置全局敏感头，如果为空，表示接收所有敏感头信息
+

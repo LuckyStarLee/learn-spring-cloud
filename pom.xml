@@ -51,5 +51,6 @@
         <module>learn-ribbon</module>
         <module>learn-feign</module>
         <module>learn-hystrix</module>
+        <module>learn-zuul</module>
     </modules>
 </project>
