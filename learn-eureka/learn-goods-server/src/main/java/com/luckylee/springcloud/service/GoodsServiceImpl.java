@@ -26,6 +26,11 @@ public class GoodsServiceImpl implements GoodsService {
 
     @Override
     public Goods findGoodsById(String goodsId) {
-        return data.get(goodsId);
+        Goods goods = data.get(goodsId);
+        if (goods == null) {
+            throw new RuntimeException("商品不存在");
+        }
+
+        return goods;
     }
 }

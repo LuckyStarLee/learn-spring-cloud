@@ -50,5 +50,6 @@
         <module>learn-eureka</module>
         <module>learn-ribbon</module>
         <module>learn-feign</module>
+        <module>learn-hystrix</module>
     </modules>
 </project>
