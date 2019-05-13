@@ -12,9 +12,23 @@ spring:
           username: xiaoningli
           password: xxxxx
           basedir: ./.data # 本地库目录
+ #mq
+  rabbitmq:
+      host: 10.211.55.7
+      port: 5672
+      username: admin
+      password: 123
+
+#注册中心
 eureka:
   instance:
     instance-id: config-api
   client:
     service-url:
       defaultZone: http://eureka01:9000/eureka/  # 注册中心访问地址
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*" # 暴露接口

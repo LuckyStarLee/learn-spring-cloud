@@ -7,6 +7,14 @@ spring:
         enabled: true
         service-id: CONFIG  # config-server 在注册中心的名称
       profile: dev  # 指定配置文件的环境
+
+#mq
+  rabbitmq:
+      host: 10.211.55.7
+      port: 5672
+      username: admin
+      password: 123
+
 eureka:
   client:
     service-url:
