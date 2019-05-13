@@ -11,7 +11,7 @@ spring:
           uri: https://github.com/xiaoningli/spring-cloud-config
           username: xiaoningli
           password: xxxxx
-          basedir: ./data # 本地库目录
+          basedir: ./.data # 本地库目录
 eureka:
   instance:
     instance-id: config-api

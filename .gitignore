@@ -100,14 +100,6 @@ buildNumber.properties
 .idea/sonarlint/**
 .idea/sonarlint/.sonartmp/
 
-.idea/sonarlint/issuestore/4/5/
-.idea/sonarlint/issuestore/a/
-learn-eureka/learn-eureka-server/src/test/
-learn-eureka/learn-goods-server/src/test/
-learn-eureka/learn-order-server/src/test/
-learn-feign/learn-feign-order-server/src/test/
-learn-ribbon/learn-ribbon-order-server/src/test/
-data/
+.data/
 learn-config/**/*.iml
-
-
+learn-*/**/test/
