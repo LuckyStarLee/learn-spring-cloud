@@ -107,3 +107,4 @@ learn-eureka/learn-goods-server/src/test/
 learn-eureka/learn-order-server/src/test/
 learn-feign/learn-feign-order-server/src/test/
 learn-ribbon/learn-ribbon-order-server/src/test/
+data/
