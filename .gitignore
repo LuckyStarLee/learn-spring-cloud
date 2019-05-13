@@ -108,3 +108,6 @@ learn-eureka/learn-order-server/src/test/
 learn-feign/learn-feign-order-server/src/test/
 learn-ribbon/learn-ribbon-order-server/src/test/
 data/
+learn-config/**/*.iml
+
+
